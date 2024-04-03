@@ -1,5 +1,6 @@
 body{
     
+    
 }
 
 .logo{
@@ -24,4 +25,22 @@ body{
 
 .infofoto{
     font-size: 10px;
+}
+
+#lista{
+    padding-inline-start: 15px;
+}
+
+.suggeriti{
+    color: grey;
+}
+
+#consiglio1{
+    color: white
+
+}
+
+#consiglio2{
+    color: white
+
 }
